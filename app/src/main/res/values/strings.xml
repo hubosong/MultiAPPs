@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiAPPs</string>
+
+    <string name="choose">Choose!</string>
+    <string-array name="choose_arrays">
+        <item>SELECIONE</item>
+        <item>APP 1</item>
+        <item>APP 2</item>
+    </string-array>
+
+</resources>
